@@ -7,6 +7,7 @@
 This is normal text.
 
 **This is bolded text.**
+
 *This is italicized text.*
 
 `This is an inline code`
